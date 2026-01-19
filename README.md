@@ -9,7 +9,7 @@ Exercício para aperfeiçoar minhas habilidades em Javascript
 API's usando javascript
 - OpenWeather API - para as as informçôes do clima, graus, umidade do ar, velocidade do vento
 - Country flags API - para as bandeiras dos países de pesquisa
-- Unsplash API - para imagem de fundo baseado no local de pesquisa
+- Unsplash API - para imagem de fundo aleatórias
 
 <a href="https://gustavofmiguel.github.io/app_clima_JS" target="_blank">Clique aqui para acessar</a>
 
